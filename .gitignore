@@ -1,0 +1,15 @@
+# Hugo output folders
+public/
+resources/
+
+# Static uploads (optional large files you don't want versioned)
+static/uploads/
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Obsidian settings and personal templates
+.obsidian/
+templater/
+
