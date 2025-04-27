@@ -1,0 +1,8 @@
+baseURL = "https://your-site.netlify.app/"
+languageCode = "en-us"
+title = "Biolectrics"
+theme = "PaperMod"
+
+[params]
+  author = "REMGuy"
+
