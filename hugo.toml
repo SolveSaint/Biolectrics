@@ -1,8 +1,8 @@
-baseURL = "https://your-site.netlify.app/"
+baseURL = "https://biolectrics.netlify.app/"
 languageCode = "en-us"
 title = "Biolectrics"
 theme = "PaperMod"
 
 [params]
-  author = "REMGuy"
+  author = "SolveSaint"
 
