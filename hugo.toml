@@ -1,8 +1,0 @@
-baseURL = "https://biolectrics.netlify.app/"
-languageCode = "en-us"
-title = "Biolectrics"
-theme = "PaperMod"
-
-[params]
-  author = "SolveSaint"
-

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Biolectrics",
+    "description": "",
+    "home_page_url": "https://SolveSaint.github.io/Biolectrics",
+    "feed_url": "https://SolveSaint.github.io/Biolectrics/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SolveSaint"
+    },
+    "items": [
+    ]
+}
