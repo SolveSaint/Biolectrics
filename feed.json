@@ -15,13 +15,14 @@
             "title": "A Testing Post",
             "summary": "Information is here.",
             "content_html": "<p>Information is here.</p>\n<figure class=\"post__image\"><img decoding=\"async\"  src=\"https://biolectrics.netlify.app/media/posts/2/SOLVE-Panel.png\" alt=\"\" width=\"320\" height=\"80\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-xs.png 384w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-sm.png 600w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-md.png 768w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-lg.png 1200w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-xl.png 1600w\"></figure>                         <figure class=\"post__image align-right\"><img decoding=\"async\" loading=\"lazy\"  src=\"https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1.png\" alt=\"\" width=\"256\" height=\"256\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-xs.png 384w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-sm.png 600w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-md.png 768w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-lg.png 1200w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-xl.png 1600w\"></figure>",
+            "image": "https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1-2.png",
             "author": {
                 "name": "SolveSaint"
             },
             "tags": [
             ],
             "date_published": "2025-04-28T15:32:57-04:00",
-            "date_modified": "2025-04-28T15:32:57-04:00"
+            "date_modified": "2025-04-28T17:20:11-04:00"
         }
     ]
 }
