@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://SolveSaint.github.io/Biolectrics/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://biolectrics.netlify.app/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://SolveSaint.github.io/Biolectrics/</loc>
+<loc>https://biolectrics.netlify.app/</loc>
 </url>
 <url>
-<loc>https://SolveSaint.github.io/Biolectrics/hello-world.html</loc>
+<loc>https://biolectrics.netlify.app/hello-world.html</loc>
 <lastmod>2025-04-28T10:15:11-04:00</lastmod>
 </url>
 </urlset>

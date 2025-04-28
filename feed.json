@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Biolectrics",
     "description": "",
-    "home_page_url": "https://SolveSaint.github.io/Biolectrics",
-    "feed_url": "https://SolveSaint.github.io/Biolectrics/feed.json",
+    "home_page_url": "https://biolectrics.netlify.app",
+    "feed_url": "https://biolectrics.netlify.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "SolveSaint"
