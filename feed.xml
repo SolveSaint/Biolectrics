@@ -3,12 +3,32 @@
     <title>Biolectrics</title>
     <link href="https://biolectrics.netlify.app/feed.xml" rel="self" />
     <link href="https://biolectrics.netlify.app" />
-    <updated>2025-04-28T17:20:11-04:00</updated>
+    <updated>2025-05-10T14:25:46-04:00</updated>
     <author>
         <name>SolveSaint</name>
     </author>
     <id>https://biolectrics.netlify.app</id>
 
+    <entry>
+        <title>Second Post to check the Layout</title>
+        <author>
+            <name>SolveSaint</name>
+        </author>
+        <link href="https://biolectrics.netlify.app/second-post-to-check-the-layout/"/>
+        <id>https://biolectrics.netlify.app/second-post-to-check-the-layout/</id>
+
+        <updated>2025-05-10T14:21:26-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test post to check what the layout looks like on the home page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test post to check what the layout looks like on the home page.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Testing Post</title>
         <author>
@@ -19,17 +39,12 @@
         <media:content url="https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1-2.png" medium="image" />
 
         <updated>2025-04-28T15:32:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1-2.png" alt="" />
-                    Information is here.
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1-2.png" class="type:primaryImage" alt="" /></p>
-                <p>Information is here.</p>
-<figure class="post__image"><img decoding="async"  src="https://biolectrics.netlify.app/media/posts/2/SOLVE-Panel.png" alt="" width="320" height="80" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-xs.png 384w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-sm.png 600w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-md.png 768w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-lg.png 1200w ,https://biolectrics.netlify.app/media/posts/2/responsive/SOLVE-Panel-xl.png 1600w"></figure>                         <figure class="post__image align-right"><img decoding="async" loading="lazy"  src="https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1.png" alt="" width="256" height="256" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-xs.png 384w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-sm.png 600w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-md.png 768w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-lg.png 1200w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-xl.png 1600w"></figure>
+                <figure class="post__image post__image--left"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">     </span><img decoding="async" loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1.png" alt="" width="73" height="73" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-xs.png 640w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-sm.png 768w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-md.png 1024w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-lg.png 1366w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-xl.png 1600w ,https://biolectrics.netlify.app/media/posts/2/responsive/Avatar-SolveSaint-1-2xl.png 1920w"></figure>
+<p class="align-right"> </p>
             ]]>
         </content>
     </entry>

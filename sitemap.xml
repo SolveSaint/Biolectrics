@@ -6,13 +6,9 @@
 </url>
 <url>
 <loc>https://biolectrics.netlify.app/a-testing-post/</loc>
-<lastmod>2025-04-28T17:20:11-04:00</lastmod>
+<lastmod>2025-05-10T14:25:46-04:00</lastmod>
 <image:image>
 <image:loc>https://biolectrics.netlify.app/media/posts/2/Avatar-SolveSaint-1-2.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://biolectrics.netlify.app/media/posts/2/SOLVE-Panel.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -23,5 +19,9 @@
 <url>
 <loc>https://biolectrics.netlify.app/hello-world/</loc>
 <lastmod>2025-04-28T10:15:11-04:00</lastmod>
+</url>
+<url>
+<loc>https://biolectrics.netlify.app/second-post-to-check-the-layout/</loc>
+<lastmod>2025-05-10T14:21:26-04:00</lastmod>
 </url>
 </urlset>
