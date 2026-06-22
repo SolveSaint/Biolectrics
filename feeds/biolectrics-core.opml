@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Biolectrics Core RSS Feeds</title>
+    <dateCreated>Mon, 22 Jun 2026 22:08:30 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Preprint" title="Preprint">
+      <outline text="arXiv – physics.bio-ph (Biological Physics)" title="arXiv – physics.bio-ph (Biological Physics)" type="rss" xmlUrl="https://rss.arxiv.org/rss/physics.bio-ph" />
+      <outline text="arXiv – q-bio.BM (Biomolecules)" title="arXiv – q-bio.BM (Biomolecules)" type="rss" xmlUrl="https://rss.arxiv.org/rss/q-bio.BM" />
+      <outline text="arXiv – q-bio.MN (Molecular Networks)" title="arXiv – q-bio.MN (Molecular Networks)" type="rss" xmlUrl="https://rss.arxiv.org/rss/q-bio.MN" />
+      <outline text="arXiv – q-bio.NC (Neurons and Cognition)" title="arXiv – q-bio.NC (Neurons and Cognition)" type="rss" xmlUrl="https://rss.arxiv.org/rss/q-bio.NC" />
+      <outline text="medRxiv – Cardiovascular / Endocrine / Rheumatology" title="medRxiv – Cardiovascular / Endocrine / Rheumatology" type="rss" xmlUrl="http://connect.medrxiv.org/medrxiv_xml.php?subject=cardiovascular_medicine+endocrinology+rheumatology" />
+      <outline text="medRxiv – Neurology / Psychiatry / Pain / Rehab" title="medRxiv – Neurology / Psychiatry / Pain / Rehab" type="rss" xmlUrl="http://connect.medrxiv.org/medrxiv_xml.php?subject=neurology+psychiatry_and_clinical_psychology+pain_medicine+rehabilitation_medicine_and_physical_therapy" />
+      <outline text="bioRxiv – Genetics Genomics Evolution" title="bioRxiv – Genetics Genomics Evolution" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=genetics+genomics+evolutionary_biology" />
+      <outline text="bioRxiv – Biochem Biophys Physiology" title="bioRxiv – Biochem Biophys Physiology" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=biochemistry+biophysics+physiology" />
+      <outline text="bioRxiv – Neuro Cell Molecular" title="bioRxiv – Neuro Cell Molecular" type="rss" xmlUrl="http://connect.biorxiv.org/biorxiv_xml.php?subject=neuroscience+cell_biology+molecular_biology" />
+    </outline>
+    <outline text="Nature" title="Nature">
+      <outline text="Nature subjects – Neuroscience" title="Nature subjects – Neuroscience" type="rss" xmlUrl="https://www.nature.com/subjects/neuroscience.rss" />
+      <outline text="Nature subjects – Neurodegeneration" title="Nature subjects – Neurodegeneration" type="rss" xmlUrl="https://www.nature.com/subjects/neurodegeneration.rss" />
+      <outline text="Nature subjects – Neuromuscular junction" title="Nature subjects – Neuromuscular junction" type="rss" xmlUrl="https://www.nature.com/subjects/neuromuscular-junction.rss" />
+      <outline text="Nature subjects – Synaptic transmission" title="Nature subjects – Synaptic transmission" type="rss" xmlUrl="https://www.nature.com/subjects/synaptic-transmission.rss" />
+      <outline text="Nature subjects – Synaptic plasticity" title="Nature subjects – Synaptic plasticity" type="rss" xmlUrl="https://www.nature.com/subjects/synaptic-plasticity.rss" />
+      <outline text="Nature subjects – Mitochondria" title="Nature subjects – Mitochondria" type="rss" xmlUrl="https://www.nature.com/subjects/mitochondria.rss" />
+      <outline text="Nature subjects – Energy metabolism" title="Nature subjects – Energy metabolism" type="rss" xmlUrl="https://www.nature.com/subjects/energy-metabolism.rss" />
+      <outline text="Nature subjects – Bioenergetics" title="Nature subjects – Bioenergetics" type="rss" xmlUrl="https://www.nature.com/subjects/bioenergetics.rss" />
+      <outline text="Nature subjects – Macroautophagy" title="Nature subjects – Macroautophagy" type="rss" xmlUrl="https://www.nature.com/subjects/macroautophagy.rss" />
+      <outline text="Nature - Heredity" title="Nature - Heredity" type="rss" xmlUrl="https://www.nature.com/hdy/rss" />
+    </outline>
+    <outline text="Nature – Disease Subjects" title="Nature – Disease Subjects">
+      <outline text="Nature subjects – Neurodegenerative diseases" title="Nature subjects – Neurodegenerative diseases" type="rss" xmlUrl="https://www.nature.com/subjects/neurodegenerative-diseases.rss" />
+      <outline text="Nature subjects – Parkinson’s disease" title="Nature subjects – Parkinson’s disease" type="rss" xmlUrl="https://www.nature.com/npjparkd/.rss" />
+      <outline text="Nature subjects – Amyotrophic lateral sclerosis" title="Nature subjects – Amyotrophic lateral sclerosis" type="rss" xmlUrl="https://www.nature.com/subjects/amyotrophic-lateral-sclerosis.rss" />
+      <outline text="Nature subjects – Multiple sclerosis" title="Nature subjects – Multiple sclerosis" type="rss" xmlUrl="https://www.nature.com/subjects/multiple-sclerosis.rss" />
+      <outline text="Nature subjects – Cardiovascular diseases" title="Nature subjects – Cardiovascular diseases" type="rss" xmlUrl="https://www.nature.com/subjects/cardiovascular-diseases.rss" />
+      <outline text="Nature subjects – Stroke" title="Nature subjects – Stroke" type="rss" xmlUrl="https://www.nature.com/subjects/stroke.rss" />
+      <outline text="Nature subjects – Diabetes" title="Nature subjects – Diabetes" type="rss" xmlUrl="https://www.nature.com/subjects/diabetes.rss" />
+      <outline text="Nature subjects – Autoimmune diseases" title="Nature subjects – Autoimmune diseases" type="rss" xmlUrl="https://www.nature.com/subjects/autoimmune-diseases.rss" />
+      <outline text="Nature subjects – Depression" title="Nature subjects – Depression" type="rss" xmlUrl="https://www.nature.com/subjects/depression.rss" />
+      <outline text="Nature subjects – Autism spectrum disorders" title="Nature subjects – Autism spectrum disorders" type="rss" xmlUrl="https://www.nature.com/subjects/autism-spectrum-disorders.rss" />
+      <outline text="Nature subjects – Chronic pain" title="Nature subjects – Chronic pain" type="rss" xmlUrl="https://www.nature.com/subjects/chronic-pain.rss" />
+      <outline text="Nature subjects – Neuropathic pain" title="Nature subjects – Neuropathic pain" type="rss" xmlUrl="https://www.nature.com/subjects/neuropathic-pain.rss" />
+      <outline text="Nature subjects – Chronic fatigue syndrome" title="Nature subjects – Chronic fatigue syndrome" type="rss" xmlUrl="https://www.nature.com/subjects/chronic-fatigue-syndrome.rss" />
+    </outline>
+    <outline text="Cell Press" title="Cell Press">
+      <outline text="Cell (in press)" title="Cell (in press)" type="rss" xmlUrl="https://www.cell.com/cell/inpress.rss" />
+      <outline text="Neuron (in press)" title="Neuron (in press)" type="rss" xmlUrl="https://www.cell.com/neuron/inpress.rss" />
+      <outline text="Immunity (in press)" title="Immunity (in press)" type="rss" xmlUrl="https://www.cell.com/immunity/inpress.rss" />
+      <outline text="Developmental Cell (in press)" title="Developmental Cell (in press)" type="rss" xmlUrl="https://www.cell.com/developmental-cell/inpress.rss" />
+      <outline text="Cell Reports (in press)" title="Cell Reports (in press)" type="rss" xmlUrl="https://www.cell.com/cell-reports/inpress.rss" />
+      <outline text="Cell Metabolism (in press)" title="Cell Metabolism (in press)" type="rss" xmlUrl="https://www.cell.com/cell-metabolism/inpress.rss" />
+      <outline text="Molecular Cell (in press)" title="Molecular Cell (in press)" type="rss" xmlUrl="https://www.cell.com/molecular-cell/inpress.rss" />
+      <outline text="Cell Reports Medicine (in press)" title="Cell Reports Medicine (in press)" type="rss" xmlUrl="https://www.cell.com/cell-reports-medicine/inpress.rss" />
+    </outline>
+    <outline text="Science / AAAS" title="Science / AAAS">
+      <outline text="Science - First Release" title="Science - First Release" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=axatoc&amp;feed=rss&amp;jc=science" />
+      <outline text="Science Signaling - TOC" title="Science Signaling - TOC" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=signaling" />
+      <outline text="Science Translational Medicine - TOC" title="Science Translational Medicine - TOC" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=stm" />
+      <outline text="Science Advances - TOC" title="Science Advances - TOC" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv" />
+      <outline text="Science Immunology - TOC" title="Science Immunology - TOC" type="rss" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciimmunol" />
+    </outline>
+    <outline text="PNAS" title="PNAS">
+      <outline text="PNAS - Biological Sciences (all)" title="PNAS - Biological Sciences (all)" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=bio-sci" />
+      <outline text="PNAS - Biochemistry" title="PNAS - Biochemistry" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=biochem" />
+      <outline text="PNAS - Cell Biology" title="PNAS - Cell Biology" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=cell-bio" />
+      <outline text="PNAS - Genetics" title="PNAS - Genetics" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=genetics" />
+      <outline text="PNAS - Immunology and Inflammation" title="PNAS - Immunology and Inflammation" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=immun" />
+      <outline text="PNAS - Medical Sciences" title="PNAS - Medical Sciences" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=med-sci" />
+      <outline text="PNAS - Neuroscience" title="PNAS - Neuroscience" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=neuro" />
+      <outline text="PNAS - Pharmacology" title="PNAS - Pharmacology" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=pharm" />
+      <outline text="PNAS - Physiology" title="PNAS - Physiology" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=physio" />
+      <outline text="PNAS - Systems Biology" title="PNAS - Systems Biology" type="rss" xmlUrl="https://www.pnas.org/action/showfeed?type=searchTopic&amp;taxonomyCode=topic&amp;tagCode=sys-bio" />
+    </outline>
+    <outline text="PNAS Nexus" title="PNAS Nexus">
+      <outline text="Advance Articles" title="Advance Articles" type="rss" xmlUrl="https://academic.oup.com/rss/site_6448/advanceAccess_4114.xml" />
+    </outline>
+    <outline text="elifesciences" title="elifesciences">
+      <outline text="eLife - Biochemistry and Chemical Biology" title="eLife - Biochemistry and Chemical Biology" type="rss" xmlUrl="https://elifesciences.org/rss/subject/biochemistry-chemical-biology.xml" />
+      <outline text="eLife - Cell Biology" title="eLife - Cell Biology" type="rss" xmlUrl="https://elifesciences.org/rss/subject/cell-biology.xml" />
+      <outline text="eLife - Chromosomes and Gene Expression" title="eLife - Chromosomes and Gene Expression" type="rss" xmlUrl="https://elifesciences.org/rss/subject/chromosomes-gene-expression.xml" />
+      <outline text="eLife - Computational and Systems Biology" title="eLife - Computational and Systems Biology" type="rss" xmlUrl="https://elifesciences.org/rss/subject/computational-systems-biology.xml" />
+      <outline text="eLife - Genetics and Genomics" title="eLife - Genetics and Genomics" type="rss" xmlUrl="https://elifesciences.org/rss/subject/genetics-genomics.xml" />
+      <outline text="eLife - Immunology and Inflammation" title="eLife - Immunology and Inflammation" type="rss" xmlUrl="https://elifesciences.org/rss/subject/immunology-inflammation.xml" />
+      <outline text="eLife - Medicine" title="eLife - Medicine" type="rss" xmlUrl="https://elifesciences.org/rss/subject/medicine.xml" />
+      <outline text="eLife - Neuroscience" title="eLife - Neuroscience" type="rss" xmlUrl="https://elifesciences.org/rss/subject/neuroscience.xml" />
+      <outline text="eLife - Structural Biology and Molecular Biophysics" title="eLife - Structural Biology and Molecular Biophysics" type="rss" xmlUrl="https://elifesciences.org/rss/subject/structural-biology-molecular-biophysics.xml" />
+    </outline>
+    <outline text="Journal of Neuroscience" title="Journal of Neuroscience">
+      <outline text="Behavioral/Cognitive" title="Behavioral/Cognitive" type="rss" xmlUrl="https://www.jneurosci.org/rss/Behavioral_Cognitive.xml" />
+      <outline text="Systems/Circuits" title="Systems/Circuits" type="rss" xmlUrl="https://www.jneurosci.org/rss/Systems_Circuits.xml" />
+      <outline text="Cellular/Molecular" title="Cellular/Molecular" type="rss" xmlUrl="https://www.jneurosci.org/rss/Cellular.xml" />
+      <outline text="Development/Plasticity/Repair" title="Development/Plasticity/Repair" type="rss" xmlUrl="https://www.jneurosci.org/rss/DevelopmentPlasticityRepair.xml" />
+      <outline text="Neurobiology of Disease" title="Neurobiology of Disease" type="rss" xmlUrl="https://www.jneurosci.org/rss/Neurobiology_of_Disease.xml" />
+    </outline>
+    <outline text="OUP Academic Categories" title="OUP Academic Categories">
+      <outline text="Clinical Neuroscience" title="Clinical Neuroscience" type="rss" xmlUrl="http://global.oup.com/academic/category/medicine-and-health/clinical-neuroscience/?cc=us&amp;lang=en&amp;view=RSS" />
+      <outline text="Pharmacology" title="Pharmacology" type="rss" xmlUrl="http://global.oup.com/academic/category/medicine-and-health/pharmacology/?cc=us&amp;lang=en&amp;view=RSS" />
+      <outline text="Preclinical Medicine" title="Preclinical Medicine" type="rss" xmlUrl="http://global.oup.com/academic/category/medicine-and-health/preclinical-medicine/?cc=us&amp;lang=en&amp;view=RSS" />
+      <outline text="Psychiatry" title="Psychiatry" type="rss" xmlUrl="http://global.oup.com/academic/category/medicine-and-health/psychiatry/?cc=us&amp;lang=en&amp;view=RSS" />
+      <outline text="Public Health &amp; Epidemiology" title="Public Health &amp; Epidemiology" type="rss" xmlUrl="http://global.oup.com/academic/category/medicine-and-health/public-health-and-epidemiology/?cc=us&amp;lang=en&amp;view=RSS" />
+      <outline text="Neuroscience" title="Neuroscience" type="rss" xmlUrl="http://global.oup.com/academic/category/science-and-mathematics/neuroscience/?cc=us&amp;lang=en&amp;view=RSS" />
+      <outline text="Psychology" title="Psychology" type="rss" xmlUrl="http://global.oup.com/academic/category/science-and-mathematics/psychology/?cc=us&amp;lang=en&amp;view=RSS" />
+    </outline>
+    <outline text="MDPI" title="MDPI">
+      <outline text="Cells" title="Cells" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/cells" />
+      <outline text="Biomolecules" title="Biomolecules" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/biomolecules" />
+      <outline text="Antioxidants" title="Antioxidants" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/antioxidants" />
+      <outline text="Metabolites" title="Metabolites" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/metabolites" />
+      <outline text="Brain Sciences" title="Brain Sciences" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/brainsci" />
+      <outline text="Neuroglia" title="Neuroglia" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/neuroglia" />
+      <outline text="NeuroSci" title="NeuroSci" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/neuroSci" />
+      <outline text="Neurology International" title="Neurology International" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/neurolint" />
+      <outline text="IJNS" title="IJNS" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/ijns" />
+      <outline text="Clock and Sleep" title="Clock and Sleep" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/clockssleep" />
+      <outline text="Biomedicines" title="Biomedicines" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/biomedicines" />
+      <outline text="Genes" title="Genes" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/genes" />
+      <outline text="Pharmaceuticals" title="Pharmaceuticals" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/pharmaceuticals" />
+      <outline text="Pharmaceutics" title="Pharmaceutics" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/pharmaceutics" />
+      <outline text="Clinical and Translational Neuroscience" title="Clinical and Translational Neuroscience" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/ctn" />
+      <outline text="Clinical Bioenergetics" title="Clinical Bioenergetics" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/clinbioenerg" />
+      <outline text="International Journal of Molecular Sciences" title="International Journal of Molecular Sciences" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/ijms" />
+      <outline text="Journal of Ageing and Longevity" title="Journal of Ageing and Longevity" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/jal" />
+      <outline text="Journal of Dementia and Alzheimer's Disease" title="Journal of Dementia and Alzheimer's Disease" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/jdad" />
+      <outline text="Kinases and Phosphatases" title="Kinases and Phosphatases" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/kinasesphosphatases" />
+      <outline text="Lipidology" title="Lipidology" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/lipidology" />
+      <outline text="Muscles" title="Muscles" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/muscles" />
+      <outline text="Pathophysiology" title="Pathophysiology" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/pathophysiology" />
+      <outline text="Receptors" title="Receptors" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/receptors" />
+      <outline text="Sclerosis" title="Sclerosis" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/sclerosis" />
+      <outline text="Stresses" title="Stresses" type="rss" xmlUrl="https://www.mdpi.com/rss/journal/stresses" />
+    </outline>
+    <outline text="JCI" title="JCI">
+      <outline text="JCI" title="JCI" type="rss" xmlUrl="https://www.jci.org/rss" />
+    </outline>
+    <outline text="PLOS" title="PLOS">
+      <outline text="PLOS - Biology" title="PLOS - Biology" type="rss" xmlUrl="https://journals.plos.org/plosbiology/feed/atom" />
+      <outline text="PLOS - Genetics" title="PLOS - Genetics" type="rss" xmlUrl="https://journals.plos.org/plosgenetics/feed/atom" />
+      <outline text="PLOS - Aging" title="PLOS - Aging" type="rss" xmlUrl="https://journals.plos.org/agingandhealth/feed/atom" />
+      <outline text="PLOS - Medicine" title="PLOS - Medicine" type="rss" xmlUrl="https://journals.plos.org/plosmedicine/feed/atom" />
+      <outline text="PLOS - Mental Health" title="PLOS - Mental Health" type="rss" xmlUrl="https://journals.plos.org/mentalhealth/feed/atom" />
+    </outline>
+    <outline text="Redox – Epigenetics – Clinical Neuro" title="Redox – Epigenetics – Clinical Neuro">
+      <outline text="Clinical Epigenetics" title="Clinical Epigenetics" type="rss" xmlUrl="https://link.springer.com/search.rss?query=*&amp;content-type=Article&amp;sortBy=relevance&amp;search-within=Journal&amp;facet-journal-id=13148" />
+      <outline text="JNNP – Latest Articles" title="JNNP – Latest Articles" type="rss" xmlUrl="https://jnnp.bmj.com/rss/current.xml" />
+      <outline text="Springer - Neuro" title="Springer - Neuro" type="rss" xmlUrl="https://link.springer.com/search.rss?query=&amp;facet-sub-discipline=%22Neurosciences%22&amp;facet-sub-discipline=%22Neurology%22&amp;facet-sub-discipline=%22Neurobiology%22&amp;facet-sub-discipline=%22Neurochemistry%22&amp;taxonomy=%22Neuropharmacology%22&amp;taxonomy=%22Neurology%22&amp;taxonomy=%22Alzheimer%27s+disease%22&amp;taxonomy=%22Neuroscience%22&amp;taxonomy=%22Parkinson%27s+disease%22&amp;taxonomy=%22Neurophysiology%22&amp;taxonomy=%22Neurosurgery%22&amp;taxonomy=%22Neurological+Disorders%22&amp;taxonomy=%22Neurodegeneration%22&amp;taxonomy=%22Neurochemistry%22&amp;taxonomy=%22Neurodegenerative+diseases%22&amp;sortBy=newestFirst" />
+    </outline>
+  </body>
+</opml>
